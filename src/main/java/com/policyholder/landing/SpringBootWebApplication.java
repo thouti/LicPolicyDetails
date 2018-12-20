@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.policyholder.landing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

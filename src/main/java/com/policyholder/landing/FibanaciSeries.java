@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.policyholder.landing;
 
 import java.util.HashMap;
 import java.util.Set;
