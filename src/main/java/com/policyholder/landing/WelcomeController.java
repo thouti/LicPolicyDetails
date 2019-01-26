@@ -14,5 +14,9 @@ public class WelcomeController {
 		//model.put("message", this.message);
 		return "home";
 	}
-
+	@RequestMapping("/admin")
+	public String admin() {
+		//model.put("message", this.message);
+		return "admin";
+	}
 }

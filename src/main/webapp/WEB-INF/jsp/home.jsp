@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link href="images/thouti.JPG" type="images/x-icon" rel="shortcut icon"/>
     <title>Home</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -26,7 +27,7 @@
         <!-- Container -->
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                <img src="images/liclogo.jpg" alt="">
+                <img src="images/lic.gif"  style="height:35px;">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
               <span><i class="fa fa-align-right" aria-hidden="true"></i></span>
